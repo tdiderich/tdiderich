@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tyler Diderich
+- 👀 I’m interested in web development and python scripting
+- 🌱 I’m currently learning React, Tailwind CSS, and Python
+- 📫 How to reach me -> tylerdiderich@gmail.com
